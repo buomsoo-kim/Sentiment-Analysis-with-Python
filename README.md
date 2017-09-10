@@ -1,6 +1,6 @@
 # Sentiment-Analysis-with-Python
 
-*All the materials are provided in Korean
+* All the materials are provided in Korean
 
 ## Webpage for the lecture
 http://bdi.snu.ac.kr/udsl/
