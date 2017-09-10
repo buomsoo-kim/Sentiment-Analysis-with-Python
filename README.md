@@ -1,8 +1,9 @@
 # Sentiment-Analysis-with-Python
 
-##   감성분
+## Webpage for the lecture
+http://bdi.snu.ac.kr/udsl/
 
-### Lectures given in Urban Data Science Lab, Seoul
+### Lecture dates
 - July 26 & 28, 2017
 - September 11 & 12, 2017
 
