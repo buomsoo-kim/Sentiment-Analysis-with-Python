@@ -1,6 +1,6 @@
 # Sentiment-Analysis-with-Python
 
-## Lectures given in Urban Data Science Lab, Seoul
+### Lectures given in Urban Data Science Lab, Seoul
 - July 26 & 28, 2017
 - September 11 & 12, 2017
 
@@ -39,3 +39,4 @@
 - Recent developments in Deep Learning
 - Tensorflow Primer
 - Keras Primer
+
