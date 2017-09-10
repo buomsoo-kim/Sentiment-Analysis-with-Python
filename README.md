@@ -1,6 +1,6 @@
 # Sentiment-Analysis-with-Python
 
-## 도시데이터사이언스연구소
+##   감성분
 
 ### Lectures given in Urban Data Science Lab, Seoul
 - July 26 & 28, 2017
